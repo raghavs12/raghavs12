@@ -83,6 +83,7 @@
         <td>DeepFake & Emotion Detection System</td>
         <td>Developed a high-accuracy deepfake and emotion detection system using real-time image and video analysis.</td>
         <td>Django, TensorFlow, Next.js, Docker, MongoDB</td>
+      <td></td>
     </tr>
     <tr>
         <td>Moto-Makeover</td>

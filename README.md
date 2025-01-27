@@ -1,7 +1,5 @@
 # Hello there 👋, I'm Raghav Sharma
 
-## 👋 Introduction
-
 ### 🚀 Software Engineer | AI-ML Enthusiast | Passionate about Financial Derivatives
 
 - 🔥 **Fun Fact:** Despite being a tech enthusiast, I still believe that a well-crafted Rubik’s cube algorithm is more satisfying than any debugging session!
@@ -85,7 +83,6 @@
         <td>DeepFake & Emotion Detection System</td>
         <td>Developed a high-accuracy deepfake and emotion detection system using real-time image and video analysis.</td>
         <td>Django, TensorFlow, Next.js, Docker, MongoDB</td>
-        <td><a href="https://github.com/raghavs12/DeepFake-Emotion-Detection">🔗</a></td>
     </tr>
     <tr>
         <td>Moto-Makeover</td>
@@ -96,7 +93,7 @@
     <tr>
         <td>DOConverter</td>
         <td>Designed a web app for converting .docx to .pdf with metadata extraction and enhanced document management features.</td>
-        <td>Node.js, Express.js, Docker</td>
+        <td>HTML, CSS, Javacript, Node.js, Express.js, Docker</td>
         <td><a href="https://doconverter.onrender.com/">🔗</a></td>
     </tr>
 </table>
@@ -105,18 +102,18 @@
 
 ## 📊 **GitHub Stats**
 <table>
-    <tr>
+<!--     <tr>
         <td>
             <img src="https://github-profile-trophy.vercel.app/?username=raghavs12&row=3&column=4&no-bg=true"/>
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavs12"/>
         </td> 
-    </tr>
+    </tr> -->
     <tr>
-        <td>
+<!--         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=raghavs12&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
+        </td> -->
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavs12&langs_count=10&layout=compact"/>
         </td>

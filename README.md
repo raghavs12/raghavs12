@@ -21,7 +21,7 @@
 ## 🛠 **Tech Stack**
 
 ### 🚀 Programming Languages
-- C, C++, Python
+- C, C++, Python, C#
 
 ### 🎨 Front-End Development
 - HTML, Tailwind CSS, JavaScript, React, Next.js

@@ -12,7 +12,7 @@
 ## 📢 **Find Me Online**
 
 - **Portfolio:** [raghav-portfolio2.netlify.app](https://raghav-portfolio2.netlify.app/)
-- **GitHub:** [raghavs12](https://github.com/raghavs12)
+- **GitHub:** [raghavs12](https://github.com/raghavs12) , [raghavs2k](https://github.com/raghavs2k)
 - **LinkedIn:** [Raghav Sharma](https://www.linkedin.com/in/raghav-sharma-40b531281/)
 - **Leetcode Profile:** [Leetcode](https://leetcode.com/u/Raghavs12/)
 
